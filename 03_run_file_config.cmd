@@ -1,0 +1,1 @@
+python tools\train.py configs\tiny_coco\mask-rcnn_r50-caffe_fpn_ms-poly-1x_tiny_coco.py
